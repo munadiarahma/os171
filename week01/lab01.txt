@@ -20,3 +20,6 @@ drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week09
 drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week10
 drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:34 xtra
 /home/fasilkom/mahasiswa/m/munadia.rahma/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
