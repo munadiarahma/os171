@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 munadia.rahma StafCS 4096 Feb 16 17:15 .
+drwx--x--x  3 munadia.rahma StafCS 4096 Feb 16 16:39 ..
+drwxr-xr-x  8 munadia.rahma StafCS 4096 Feb 16 17:13 .git
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:34 key
+-rw-r--r--  1 munadia.rahma StafCS    0 Feb 16 17:16 lab01.txt
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:34 log
+-rw-r--r--  1 munadia.rahma StafCS    7 Feb 16 16:23 README.md
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:47 sandbox
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 17:08 week00
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:31 week01
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:32 week02
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:32 week03
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:32 week04
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week05
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week06
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week07
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week08
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week09
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:33 week10
+drwxr-xr-x  2 munadia.rahma StafCS 4096 Feb 16 16:34 xtra
+/home/fasilkom/mahasiswa/m/munadia.rahma/os171/week01
