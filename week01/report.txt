@@ -1,0 +1,1 @@
+On week 1, I learned about how to make a file, how to make a folder, how to add a text using text editor and edit also using text editor, how to remove file, and also learned  how to add, commit and push file to repository.
