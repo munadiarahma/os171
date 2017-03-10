@@ -1,0 +1,14 @@
+w04-170307-13-LR-About: Variabel, Pointer, and IO, From: Lecturer
+w04-170307-13-LR-About: Variabel, Pointer, and IO, From: Lecturer
+w04-170307-14-LR-About: Variabel, Pointer, and IO, From: Lecturer
+w04-170309-13-LR-About: Pointer, From: Lecturer
+w04-170309-13-LR-About: Pointer, From: Lecturer
+w04-170309-14-LR-About: Pointer, From: Lecturer
+w04-170310-20-PS-Doing Lab task week04
+w04-170310-20-PS-Doing Lab task week04
+w04-170310-21-PS-Doing Lab task week04
+w04-170310-21-PS-Doing Lab task week04
+w04-170310-22-PS-Doing Lab task week04
+w04-170310-22-PS-Doing Lab task week04
+w04-170310-23-PS-Doing Lab task week04
+w04-170310-23-PS-Doing Lab task week04
